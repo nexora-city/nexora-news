@@ -1,0 +1,19 @@
+{
+  "news": [
+    {
+      "title": "Welcome to Nexora RP!",
+      "description": "Welcome to Nexora RP server! Join us and enjoy the best roleplay experience.",
+      "image": "https://i.ytimg.com/vi/ijfXwcTeBiE/maxresdefault.jpg"
+    },
+    {
+      "title": "Server Update v1.0",
+      "description": "New update has been released! Check out the latest features and improvements.",
+      "image": "https://i.ytimg.com/vi/ijfXwcTeBiE/maxresdefault.jpg"
+    },
+    {
+      "title": "Nexora RP Events",
+      "description": "New events are coming soon! Stay tuned for more information.",
+      "image": "https://i.ytimg.com/vi/ijfXwcTeBiE/maxresdefault.jpg"
+    }
+  ]
+}
